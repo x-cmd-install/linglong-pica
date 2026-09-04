@@ -7,7 +7,7 @@ about:
   head: bc6f19d
   archived: false
   latestVersion: 1.2.8
-  collectedAt: 2026-09-04T19:52:36Z
+  collectedAt: 2026-09-04T20:48:58Z
 timeline:
   created: 2022-11-24
   lastCommit: 2025-11-14
@@ -82,5 +82,93 @@ total:
   openIssue: 0
   commit: 190
 ---
+path: /home/runner/.x-repo/github.com/linuxdeepin/linglong-pica
+collectedAt: 2026-09-04T20:48:59Z
+loc:
+  Go:
+    code: 548303
+    comments: 89875
+    blanks: 65093
+    files: 1879
+  AssemblyGAS:
+    code: 11933
+    comments: 1378
+    blanks: 2680
+    files: 63
+  Bash:
+    code: 2889
+    comments: 165
+    blanks: 85
+    files: 8
+  Sh:
+    code: 1624
+    comments: 172
+    blanks: 139
+    files: 14
+  Json:
+    code: 637
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 371
+    comments: 18
+    blanks: 106
+    files: 13
+  Yaml:
+    code: 101
+    comments: 9
+    blanks: 11
+    files: 6
+  Python:
+    code: 100
+    comments: 23
+    blanks: 15
+    files: 1
+  Dockerfile:
+    code: 52
+    comments: 10
+    blanks: 10
+    files: 1
+  C:
+    code: 51
+    comments: 14
+    blanks: 16
+    files: 2
+  Ini:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 1
+  Toml:
+    code: 8
+    comments: 45
+    blanks: 4
+    files: 2
+  Bitbake:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 6514
+    blanks: 2412
+    files: 88
+  Text:
+    code: 0
+    comments: 6436
+    blanks: 515
+    files: 22
+total:
+  code: 568460
+  comments: 104970
+  blanks: 71520
+  files: 2104
 ---
 
