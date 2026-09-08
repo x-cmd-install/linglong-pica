@@ -5,7 +5,7 @@ about:
   head: bc6f19d
   archived: false
   latestVersion: "1.2.8"
-  collectedAt: 2026-09-08T02:12:07Z
+  collectedAt: 2026-09-08T05:03:10Z
 timeline:
   created: 2022-11-24
   lastCommit: 2025-11-14
@@ -81,7 +81,7 @@ total:
   commit: 190
 ---
 path: /home/runner/.x-repo/github.com/linuxdeepin/linglong-pica
-collectedAt: 2026-09-08T02:12:08Z
+collectedAt: 2026-09-08T05:03:13Z
 loc:
   Go:
     code: 548303
