@@ -10,6 +10,18 @@
 x install linglong-pica
 ```
 
+## Code insight
+
+Total: **566,085** lines of code across **1965** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 548,303 | 89,875 | 65,093 | 1879 |
+| AssemblyGAS | 11,933 | 1,378 | 2,680 | 63 |
+| Bash | 2,889 | 165 | 85 | 8 |
+| Sh | 1,624 | 172 | 139 | 14 |
+| Json | 637 | 0 | 2 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/linuxdeepin/linglong-pica>
@@ -33,20 +45,15 @@ x install linglong-pica
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 1 | 6 | 2 | 0 | 0 | 6 |
+| last720d | 2024-09-20 | 5 | 37 | 3 | 0 | 0 | 44 |
 
-## Code size
+## Distribution status
 
-Total: **566,085** lines of code across **1965** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 548,303 | 89,875 | 65,093 | 1879 |
-| AssemblyGAS | 11,933 | 1,378 | 2,680 | 63 |
-| Bash | 2,889 | 165 | 85 | 8 |
-| Sh | 1,624 | 172 | 139 | 14 |
-| Json | 637 | 0 | 2 | 1 |
+Reported by **4** distros on [repology.org](https://repology.org/project/linglong-pica). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -57,4 +64,4 @@ Install metadata for linglong-pica lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:47:00Z._
