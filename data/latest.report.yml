@@ -7,7 +7,7 @@ about:
   latestVersion: "1.2.8"
   latestRelease: "1.2.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:46:55Z
+  collectedAt: 2026-09-10T22:58:33Z
 timeline:
   created: 2022-11-24
   lastCommit: 2025-11-14
@@ -85,7 +85,7 @@ total:
   commit: 190
 ---
 path: /home/runner/.x-repo/github.com/linuxdeepin/linglong-pica
-collectedAt: 2026-09-10T20:46:56Z
+collectedAt: 2026-09-10T22:58:36Z
 loc:
   Go:
     code: 548303
