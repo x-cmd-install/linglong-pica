@@ -30,7 +30,7 @@ Total: **566,085** lines of code across **1965** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.2.8` (2025-11-14)
-- **Last commit**: 2025-11-14
+- **Last commit**: 2026-11-23
 
 ## Popularity
 
@@ -38,18 +38,18 @@ Total: **566,085** lines of code across **1965** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 81 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 190
+- **Releases**: 11 · **Merged PRs**: 82 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 191
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-27 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-12-02 | 3 | 24 | 2 | 0 | 0 | 28 |
+| 30d | 2026-10-24 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-24 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-25 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-27 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-28 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last720d | 2024-12-03 | 3 | 25 | 2 | 0 | 0 | 29 |
 
 ## Distribution status
 
@@ -64,4 +64,4 @@ Install metadata for linglong-pica lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:20:19Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:53:56Z._
